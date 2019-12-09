@@ -101,3 +101,7 @@ h2 {
       .page-nav ul li a:visited {
         color: #6f717d;
       }
+#social img {
+	float: right;
+	margin-left: 10px;
+}
