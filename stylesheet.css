@@ -9,7 +9,7 @@ html, body {
 .page {
   background-color: white; 
  font-family:'Open Sans', sans-serif; 
- font-size: 18px;
+ font-size: 1em;
 }
 
 .nav-header {
@@ -48,6 +48,7 @@ html, body {
 
 .page-content {
    margin-left: 200px;
+   width: 55em;
 }
 
 
